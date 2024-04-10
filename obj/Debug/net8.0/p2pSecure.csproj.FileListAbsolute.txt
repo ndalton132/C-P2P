@@ -1,0 +1,14 @@
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\bin\Debug\net8.0\p2pSecure.exe
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\bin\Debug\net8.0\p2pSecure.deps.json
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\bin\Debug\net8.0\p2pSecure.runtimeconfig.json
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\bin\Debug\net8.0\p2pSecure.dll
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\bin\Debug\net8.0\p2pSecure.pdb
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\p2pSecure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\p2pSecure.AssemblyInfoInputs.cache
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\p2pSecure.AssemblyInfo.cs
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\p2pSecure.csproj.CoreCompileInputs.cache
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\p2pSecure.dll
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\refint\p2pSecure.dll
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\p2pSecure.pdb
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\p2pSecure.genruntimeconfig.cache
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\ref\p2pSecure.dll
