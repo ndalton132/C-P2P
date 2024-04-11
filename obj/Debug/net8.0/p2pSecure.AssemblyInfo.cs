@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p2pSecure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc35b402b6cb500085db0d6b367becd3f00efb6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("p2pSecure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p2pSecure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

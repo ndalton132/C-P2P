@@ -8,12 +8,16 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Enter the IP address of the other machine:");
-        string ipAddress = Console.ReadLine();
+        Console.WriteLine("Enter the IP address to connect to:");
+        string ipAddress = Console.ReadLine(); // Specify the desired IP address
 
-        // Create a TCP client
+        Console.WriteLine("Enter the port number to connect on:");
+        int port = int.Parse(Console.ReadLine()); // Specify the desired port number
+
+        // Create a TCP client and connect to the specified IP address and port
         TcpClient client = new TcpClient();
-        client.Connect(ipAddress, 12345); // Replace 12345 with your desired port number
+        client.Connect(ipAddress, port);
+        Console.WriteLine($"Connected to {ipAddress}:{port}");
 
         // Start a thread to handle incoming messages
         Thread receiveThread = new Thread(ReceiveMessages);
@@ -49,3 +53,4 @@ class Program
         stream.Write(buffer, 0, buffer.Length);
     }
 }
+

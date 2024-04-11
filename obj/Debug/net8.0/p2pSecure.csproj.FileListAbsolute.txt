@@ -12,3 +12,4 @@ C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\refint\p2pSecur
 C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\p2pSecure.pdb
 C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\p2pSecure.genruntimeconfig.cache
 C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\ref\p2pSecure.dll
+C:\Users\nickd\source\repos\p2pSecure\p2pSecure\obj\Debug\net8.0\p2pSecure.sourcelink.json
